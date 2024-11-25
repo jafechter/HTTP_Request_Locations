@@ -1,6 +1,7 @@
 {
   "name": "data-fetching",
-  "private": true,
+  "private": false,
+  "homepage": "https://jafechter.github.io/HTTP_Request_Locations/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
